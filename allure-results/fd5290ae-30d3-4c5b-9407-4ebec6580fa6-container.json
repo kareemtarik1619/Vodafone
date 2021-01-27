@@ -1,0 +1,1 @@
+{"uuid":"fd5290ae-30d3-4c5b-9407-4ebec6580fa6","name":"testCases.CreateAccount","children":["5dfef70a-a133-4e31-a185-2dd63a759aef"],"befores":[{"name":"openURL","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1596227860514,"stop":1596227869031}],"afters":[],"links":[],"start":1596227860490,"stop":1596227875500}
